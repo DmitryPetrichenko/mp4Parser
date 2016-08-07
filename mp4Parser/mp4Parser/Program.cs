@@ -21,11 +21,7 @@ namespace mp4Parser
             Parser parser = new Parser();
             if (path.Contains("http"))
             {
-                Console.WriteLine("It may take a long time");
-                Uri link = new Uri(path);
-                WebClient wc = new WebClient();
-                wc.DownloadFile(link, "downloaded.mp4");
-                parser.parserFunction("downloaded.mp4");
+                parser.fromUrlParserFunction(path);
 
             }else if(reg.IsMatch(path)){
                 parser.parserFunction(path);

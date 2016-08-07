@@ -1,0 +1,6 @@
+D:\WorkTest\mp4Parser\mp4Parser\mp4Parser\bin\Debug\mp4Parser.exe.config
+D:\WorkTest\mp4Parser\mp4Parser\mp4Parser\obj\Debug\mp4Parser.csprojResolveAssemblyReference.cache
+D:\WorkTest\mp4Parser\mp4Parser\mp4Parser\bin\Debug\mp4Parser.exe
+D:\WorkTest\mp4Parser\mp4Parser\mp4Parser\bin\Debug\mp4Parser.pdb
+D:\WorkTest\mp4Parser\mp4Parser\mp4Parser\obj\Debug\mp4Parser.exe
+D:\WorkTest\mp4Parser\mp4Parser\mp4Parser\obj\Debug\mp4Parser.pdb
